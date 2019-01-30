@@ -57,9 +57,12 @@
   position: relative;
   overflow: hidden;
 }
-.meter > span  > span{
-  margin-left: 4px;
-  color: #fff;
+.meter > span > span {
+    margin-left: 4px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    vertical-align: top;
 }
 .meter > span:after, .animate > span > span {
   content: "";
@@ -143,4 +146,9 @@
 .nostripes > span > span, .nostripes > span:after {
   -webkit-animation: none;
   background-image: none;
+}
+
+.graphs {
+	width: 100%;
+	padding: 2em 3em 0.1em 3em;
 }
