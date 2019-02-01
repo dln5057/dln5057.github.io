@@ -172,12 +172,16 @@ function showContainer(tag) {
 			});
 
 		// Tiles.
+    // find the tiles class and article child element
 			var $tiles = $('.tiles > article');
 
+      // Goes through each tile article
 			$tiles.each(function() {
 
+        // sets variables for specific classes
 				var $this = $(this),
-					$image = $this.find('.image'), $img = $image.find('img'),
+					$image = $this.find('.image'),
+          $img = $image.find('img'),
 					$link = $this.find('.link'),
 					x;
 
