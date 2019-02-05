@@ -40,6 +40,10 @@
 			border-top: 0 !important;
 		}
 
+    .blog-list li {
+      display: inline-block;
+    }
+
 		article {
 			@include vendor('align-items', 'center');
 			@include vendor('display', 'flex');
@@ -47,7 +51,7 @@
 				'transform 0.25s ease',
 				'opacity 0.25s ease',
 				'filter 1s ease',
-				'-webkit-filter 1s ease' 
+				'-webkit-filter 1s ease'
 			));
 			@include padding(4em, 4em);
 			background-position: center;
@@ -59,7 +63,7 @@
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 40%;
+			width: 100%;
 
 
 			header {

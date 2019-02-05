@@ -31,7 +31,7 @@ nav-menu: true
       <ul class="blog-list">
         {% for post in posts %}
           {% if post.tags contains t %}
-            <li>
+            <li class="filter-tiles">
             <article>
               <span class="image">
                 <img src="{{ post.image }}" alt="" />

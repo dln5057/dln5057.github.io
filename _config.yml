@@ -36,7 +36,7 @@ country: United States of America
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
-# social settings
+# social settings 
 500px_url:
 facebook_url:
 github_url: https://github.com/dln5057
