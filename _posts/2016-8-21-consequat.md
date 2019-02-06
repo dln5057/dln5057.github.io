@@ -2,7 +2,7 @@
 layout: post
 title: Consequat
 description: Ipsum dolor sit amet
-image: assets/images/pic05.jpg
+image: assets/images/pic06.jpg
 tag: SASS
 ---
 

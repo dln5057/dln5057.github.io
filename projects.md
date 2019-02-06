@@ -26,7 +26,7 @@ nav-menu: true
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 <section class="filter-tiles">
-  <div class="">
+  <div class="inner">
     <div class="blog-list-container hidden" id="{{ t }}-container">
       <ul class="blog-list">
         {% for post in posts %}

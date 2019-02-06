@@ -19,10 +19,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Hobbies</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>Outside of exploring new technologies and languages to learn, I tend to keep myself busy with personal hobbies. I like to travel.</p>
 			</div>
 		</div>
 	</section>
@@ -36,9 +33,6 @@ nav-menu: true
 					<h3>Work Experience</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -52,13 +46,18 @@ nav-menu: true
 					<h3>Education</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Programming Languages</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+			</div>
+		</div>
 		<div class="graphs" >
 			<div class="meter emerald">
 					<span style="width: 90%"><span>HTML/CSS</span></span>
@@ -83,19 +82,16 @@ nav-menu: true
 			</div>
 			<div class="break"></div>
 		</div>
+	</section>
+	<section>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Programming Languages</h3>
+					<h3>Design Skills</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
-	</section>
-	<section>
 		<div class="graphs">
 			<div class="meter emerald">
 					<span style="width: 60%"><span>User Interface</span></span>
@@ -115,45 +111,31 @@ nav-menu: true
 
 			<div class="break"></div>
 		</div>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Design Skills</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
 	</section>
 	<section>
-		<div class="graphs">
-			<div class="meter emerald">
-          <span style="width: 60.3%"><span>Google Analytics</span></span>
-      </div>
-      <div class="meter carrot">
-          <span style="width: 90%"><span>Git Version Control</span></span>
-      </div>
-      <div class="meter wisteria">
-          <span style="width: 75.2%"><span>Wireframes</span></span>
-      </div>
-      <div class="meter sunflower">
-          <span style="width: 70%"><span>Testing/Debugging</span></span>
-      </div>
-      <div class="meter asbestos">
-          <span style="width: 82%"><span>Command Line</span></span>
-      </div>
-		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Strategy Skills</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+			</div>
+		</div>
+		<div class="graphs">
+			<div class="meter emerald">
+					<span style="width: 60.3%"><span>Google Analytics</span></span>
+			</div>
+			<div class="meter carrot">
+					<span style="width: 90%"><span>Git Version Control</span></span>
+			</div>
+			<div class="meter wisteria">
+					<span style="width: 75.2%"><span>Wireframes</span></span>
+			</div>
+			<div class="meter sunflower">
+					<span style="width: 70%"><span>Testing/Debugging</span></span>
+			</div>
+			<div class="meter asbestos">
+					<span style="width: 82%"><span>Command Line</span></span>
 			</div>
 		</div>
 	</section>

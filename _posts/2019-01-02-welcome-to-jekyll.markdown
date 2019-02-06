@@ -2,6 +2,7 @@
 layout: post
 title:  "First Project"
 description: Here is a small description of project
+image: assets/images/pic06.jpg
 categories: jekyll update
 tag: SASS
 ---
