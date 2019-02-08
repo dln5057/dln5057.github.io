@@ -3,7 +3,7 @@ layout: post
 title: Consequat
 description: Ipsum dolor sit amet
 image: assets/images/pic06.jpg
-tag: SASS
+tag: JavaScript
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
