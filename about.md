@@ -106,7 +106,7 @@ nav-menu: true
 					<span style="width: 70%"><span>Web Applications</span></span>
 			</div>
 			<div class="meter sunflower">
-					<span style="width: 50%"><span>Adobe Illustrator/Photoshop</span></span>
+					<span style="width: 50%"><span>Adobe Illustrator/Photoshop</span></span> 
 			</div>
 
 			<div class="break"></div>

@@ -28,10 +28,9 @@ nav-menu: true
 <section class="filter-tiles">
   <div class="inner">
     <div class="blog-list-container hidden" id="{{ t }}-container">
-      <ul class="blog-list">
+      <div class="blog-list">
         {% for post in posts %}
           {% if post.tags contains t %}
-            <li class="filter-tiles">
             <article>
               <span class="image">
                 <img src="{{ post.image }}" alt="" />
@@ -41,10 +40,9 @@ nav-menu: true
                 <p>{{ post.description }}</p>
               </header>
             </article>
-            </li>
           {% endif %}
         {% endfor %}
-      </ul>
+      </div>
 
       {% assign numPosts = posts | size %}
       {% if numPosts == 1 %}

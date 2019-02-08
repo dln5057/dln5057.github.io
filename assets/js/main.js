@@ -237,7 +237,7 @@ function showContainer(tag) {
 
       // filter-Tiles
 
-      var $filterTiles = $('.filter-tiles > article');
+      var $filterTiles = $('.blog-list > article');
 
       // Goes through each tile article
       $filterTiles.each(function() {
