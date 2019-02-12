@@ -19,7 +19,7 @@
 			@include vendor('align-items', 'center');
 			@include vendor('display', 'flex');
 			@include vendor('transition', (
-				'transform 0.25s ease', 
+				'transform 0.25s ease',
 				'opacity 0.25s ease',
 				'filter 1s ease',
 				'-webkit-filter 1s ease'
@@ -38,7 +38,7 @@
 
 			.image {
 				display: none;
-			}
+			} 
 
 			header {
 				position: relative;

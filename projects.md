@@ -25,9 +25,9 @@ nav-menu: true
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
-<section class="filter-tiles">
+<section class="filter-tiles blog-list-container hidden" id="{{ t }}-container">
   <div class="inner">
-    <div class="blog-list-container hidden" id="{{ t }}-container">
+    <div class="">
       <div class="blog-list">
         {% for post in posts %}
           {% if post.tags contains t %}
@@ -46,9 +46,9 @@ nav-menu: true
 
       {% assign numPosts = posts | size %}
       {% if numPosts == 1 %}
-        <p>{{ posts | size }} post containing tag <b>{{ t }}</b></p>
+        <p>{{ posts | size }} projects containing <b>{{ t }}</b></p>
       {% else %}
-        <p>{{ posts | size }} posts containing tag <b>{{ t }}</b></p>
+        <p>{{ posts | size }} projects containing <b>{{ t }}</b></p>
       {% endif %}
     </div>
   </div>

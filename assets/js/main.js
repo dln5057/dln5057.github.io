@@ -26,7 +26,7 @@ function setActiveTag(tag) {
 
 function showContainer(tag) {
   // loop through all lists and hide them
-  var lists = document.getElementsByClassName('blog-list-container');
+  var lists = document.getElementsByClassName('filter-tiles');
   for(var i=0; i < lists.length; i++) {
     lists[i].setAttribute('class', 'blog-list-container hidden');
   }
@@ -34,7 +34,7 @@ function showContainer(tag) {
   // remove the hidden class from the list corresponding to the selected tag
   var list = document.getElementById(tag + '-container');
   if(list) {
-    list.setAttribute('class', 'blog-list-container');
+    list.setAttribute('class', 'filter-tiles blog-list-container');
   }
 }
 
