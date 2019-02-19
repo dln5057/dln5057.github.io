@@ -2,7 +2,7 @@
 layout: landing
 title: Projects
 description: Lorem ipsum dolor est
-image: assets/images/pic06.jpg
+image: assets/images/floor3_v5.jpg
 nav-menu: true
 ---
 

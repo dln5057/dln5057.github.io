@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Ipsum
-description: Nisl sed aliquam
+title: Fine Wine and Good Spirits
+description: Animations
 image: assets/images/pic06.jpg
-tag: CSS
+tag: React.JS
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.

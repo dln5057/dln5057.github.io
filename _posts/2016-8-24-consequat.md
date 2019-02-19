@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
+title: Hello Tierney
+description: Tierney agency website
 image: assets/images/pic06.jpg
 tag: JavaScript
 ---

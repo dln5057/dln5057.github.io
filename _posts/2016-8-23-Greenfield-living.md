@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Magna
-description: Lorem etiam nullam
+title: Greenfield Living
+description: Senior living websites
 image: assets/images/pic06.jpg
 tag: Node.JS
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Purple
-description: Ipsum dolor sit amet
+title: Please Touch Musuem
+description: Rebranding and New Website w/ redesign of ticketing purchase site
 image: assets/images/pic06.jpg
-tag: React.JS
+tag: HTML
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
