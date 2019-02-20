@@ -2,7 +2,7 @@
 layout: post
 title: Please Touch Musuem
 description: Rebranding and New Website w/ redesign of ticketing purchase site
-image: assets/images/pic06.jpg
+image: assets/images/PTM/MacBook.png
 tag: HTML
 ---
 
