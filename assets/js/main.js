@@ -40,6 +40,7 @@ function showContainer(tag) {
 
 // End Filter
 
+/*
 //Start carousel
 
 var slideIndex = 1;
@@ -72,6 +73,8 @@ function showSlides(n) {
 }
 
 //End carousel
+
+*/
 
 (function($) {
 
