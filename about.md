@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-description: Lorem ipsum dolor est
+description: I have always been an achiever; be it academics or professional life or sports or any other field in my life. I believe in success through hard work and dedication. I like to think about George Bernard Shaw's quote "Life isn't about finding yourself. Life is about creating yourself." I believe that through creativity and hard work, every challenge will be more enjoyable.  I enjoy life to the fullest and love humour. I am a progressive thinker and enjoy learning new things.  
 image: null
 nav-menu: true
 ---
@@ -19,7 +19,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Hobbies</h3>
 				</header>
-				<p>Outside of exploring new technologies and languages to learn, I tend to keep myself busy with personal hobbies. I like to travel.</p>
+				<p>Outside of exploring new technologies and languages to learn and grow in my professional career, I like to stay busy. When I am not embarking on a new travel adventure, you can find me at a sporting event, spending time with family or trying new restaurants.</p>
 			</div>
 		</div>
 	</section>
@@ -32,7 +32,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Work Experience</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>I have been working in the Web development field for over three years. I’ve had the opportunity to work in teams and independently. I am very comfortable in both environments. My specialty is working with front end development and javascript. </p>
 			</div>
 		</div>
 	</section>
@@ -45,7 +45,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Education</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p> I have always had a passion for technology, and after finishing my four years at Penn State University with a bachelors in Communications, I wasn’t fulfilled. I decided to embark on my coding journey. I attended a software engineering program at the University of Scranton to familiarize myself with computer science and data structures. As my passion continued to grow, I enrolled in a 24 week bootcamp dedicated to designing and building web applications. I became certified as a Full Stack Web Developer and haven’t looked back since.</p>
 			</div>
 		</div>
 	</section>
@@ -55,7 +55,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Programming Languages</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>The drive to continually learn and update my programming skills never stops. I strive to learn as much as I can while maintaining a keen eye for good quality code. </p>
 			</div>
 		</div>
 		<div class="graphs" >
@@ -89,7 +89,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Design Skills</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>They say "Looks great, feels great." With developing, I like to abide by that in the design. If it looks right, feels right, and functions right, it can feel great. This leads to good positive interactions.</p>
 			</div>
 		</div>
 		<div class="graphs">
@@ -106,7 +106,7 @@ nav-menu: true
 					<span style="width: 70%"><span>Web Applications</span></span>
 			</div>
 			<div class="meter sunflower">
-					<span style="width: 50%"><span>Adobe Illustrator/Photoshop</span></span> 
+					<span style="width: 50%"><span>Adobe Illustrator/Photoshop</span></span>
 			</div>
 
 			<div class="break"></div>
@@ -118,7 +118,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Strategy Skills</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Preparation is key into building projects. Strategy, I believe, is something that is needed when preparing the building blocks to a project. Having the ability to set goals and backlog all issues is essential to having a functional project turn our perfect. </p>
 			</div>
 		</div>
 		<div class="graphs">
