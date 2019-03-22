@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-description: I have always been an achiever; be it academics or professional life or sports or any other field in my life. I believe in success through hard work and dedication. I like to think about George Bernard Shaw's quote "Life isn't about finding yourself. Life is about creating yourself." I believe that through creativity and hard work, every challenge will be more enjoyable.  I enjoy life to the fullest and love humour. I am a progressive thinker and enjoy learning new things.  
+description: I have always been an achiever; be it academics or professional life or sports or any other field in my life. I believe in success through hard work and dedication. I like to think about George Bernard Shaw's quote "Life isn't about finding yourself. Life is about creating yourself." I believe that through creativity and hard work, every challenge will be more enjoyable.  I enjoy life to the fullest and love humor. I am a progressive thinker and enjoy learning new things.  
 image: null
 nav-menu: true
 ---

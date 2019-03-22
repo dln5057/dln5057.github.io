@@ -18,7 +18,7 @@ title: Donald
 subtitle: Nowels
 email: djnowels11@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a full-stack developer. A conscientious, fast learner
+  I am a Front-End Developer. A conscientious, fast learner
   offering the ability to assess an organization’s needs and
   create a complementary, robust web presence. I am both
   driven and self-motivated, and I am constantly
@@ -45,6 +45,7 @@ linkedin_url: https://www.linkedin.com/in/donald-nowels/
 pinterest_url:
 slack_url:
 twitter_url:
+email_url: djnowels11@gmail.com
 
 # Build settings
 markdown: kramdown

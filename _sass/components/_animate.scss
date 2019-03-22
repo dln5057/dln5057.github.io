@@ -1,0 +1,181 @@
+//Hurricane glass
+#Layer_1:hover {
+  text-align: center;
+  animation-name: whobble;
+/*animation-iteration-count: infinite; */
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+}
+
+#straw:hover {
+  animation-name: straw;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
+/*   animation-delay: 2s; */
+}
+
+@keyframes straw {
+  0% {
+   transform: translateX(0px);
+  }
+  15% {
+   transform: rotate(-10deg) translateX(-30px)
+  }
+  30% {
+   transform: translateX(0px)
+  }
+  45% {
+    transform: rotate(-10deg) translateX(-30px)
+  }
+
+
+  70% {
+    transform: rotate(-15deg) translate(30px, -100px)
+  }
+
+  100% {
+    transform: rotate(-15deg) translate(30px, -100px)
+  }
+}
+
+@keyframes whobble {
+  0% {
+    transform:   rotate(10deg);
+  }
+  15% {
+    transform:  rotate(-10deg);
+  }
+   30% {
+    transform:  rotate(10deg);
+  }
+   45% {
+    transform:  rotate(-10deg);
+  }
+
+ 75% {
+    transform:  rotate(90deg) translateX(200px);
+  }
+  100% {
+    transform:  rotate(90deg) translateX(200px);
+  }
+}
+
+// end hurricane
+
+// bottle pour
+
+#droplet > path {
+  animation-name: rainfall;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  opacity: 0;
+}
+
+#droplet > path:nth-child(1) {
+  animation-delay: 2s;
+}
+
+#wine-bottle {
+  animation-name: bottle;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes rainfall {
+
+  0% {
+    transform: translateY(-33px);
+    opacity: 0.8;
+    animation-delay: 2s;
+  }
+
+  100% {
+    transform: translateY(40px);
+    opacity: 0;
+    animation-delay: 2s;
+  }
+}
+
+@keyframes bottle {
+  0% {
+    transform:translateY(-100px);
+    }
+
+    100% {
+      transform: matrix(-0.34202, 0.99969, -0.93969, -0.34202, 835.106, -15.2877);
+    }
+  }
+
+  // end bottle Pour
+
+  //Cracked Glass
+
+#Crack > polyline
+{
+  stroke-dasharray: 558;
+  stroke-dashoffset: -558;
+  animation: movePath 3s linear forwards infinite;
+}
+
+@keyframes movePath {
+  0% {
+    stroke-dashoffset: -558;
+  }
+    60% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+
+//end cracked glass
+
+// shaker
+#skills {
+  text-align: center;
+}
+
+#bottle { 
+  animation-name: bottle;
+  animation-duration: .5s;
+  animation-fill-mode: both;
+  animation-iteration-count: infinite;
+  animation-timing-function:ease-in-out;
+}
+
+#left-shake, #right-shake {
+  animation-name: vibrate;
+  animation-duration: .5s;
+  animation-fill-mode: both;
+  animation-iteration-count: infinite;
+  animation-timing-function:ease-in-out;
+}
+
+
+@keyframes vibrate {
+  0% {
+    transform:translateX(-10px);
+  }
+  50% {
+    transform:translateX(10px);
+  }
+
+  100%{
+    transform:translateX(-10px);
+  }
+  }
+
+  @keyframes bottle {
+  0% {
+    transform:translateY(-15px);
+  }
+
+  50% {
+    transform:translateY(15px);
+  }
+
+  100% {
+    transform:translateY(-15px);
+  }
+}
