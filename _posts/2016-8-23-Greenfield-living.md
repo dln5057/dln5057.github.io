@@ -2,7 +2,7 @@
 layout: post
 title: Greenfield Living
 description: Senior living websites
-image: assets/images/pic06.jpg
+image: assets/images/gsl_group.png
 tag: Node.JS
 ---
 
