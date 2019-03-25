@@ -7,7 +7,7 @@
 /* Contact */
 
 	#contact {
-		overflow-x: hidden;
+		overflow-x: hidden; 
 
 		> .inner {
 			@include vendor('display', 'flex');
